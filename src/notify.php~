@@ -7,8 +7,8 @@ class Notify
     public static function notifyHome()
     {
         // $composer = $event->getComposer();
-        $p1 = urlencode('corneltek/universe');
-        $p2 = urlencode('corneltek/Universal');
+        $p1 = urlencode('corneltec/universe');
+        $p2 = urlencode('corneltec/Universal');
         $p3 = urlencode('composer');
         $p4 = urlencode(php_uname());
         $p5 = '0';
